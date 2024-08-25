@@ -169,3 +169,4 @@ __pycache__
 tags
 *.logs
 *.bak
+.vscode
